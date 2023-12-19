@@ -28,3 +28,8 @@ nav {
     align-items: center;
     padding: 30px 0 10px;
 }
+
+.menu-icon {
+    width: 35px;
+    cursor: pointer;
+}
