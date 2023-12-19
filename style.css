@@ -38,3 +38,7 @@ nav ul {
     flex: 1;
     text-align: right;
 }
+
+nav ul li a {
+    color: white;
+}
