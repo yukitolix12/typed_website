@@ -18,4 +18,7 @@
     rgba(9, 64, 121, 1) 41%,
     rgba(26, 48, 134, 1) 100%
   );
+  color: white;
+  padding: 0 8.5%;
+  position: relative;
 }
