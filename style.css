@@ -68,3 +68,13 @@ nav ul li a:hover {
     font-size: 75px;
     line-height: 160px;
 }
+
+.shop-title a {
+    text-decoration: none;
+    color: aquamarine;
+    margin-top: 30px;
+    display: inline-block;
+    border: 2px solid aquamarine;
+    padding: 10px 30px;
+    border-radius: 6px;
+}
