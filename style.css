@@ -63,3 +63,8 @@ nav ul li a:hover {
     letter-spacing: 1px;
     line-height: 40px;
 }
+
+.shop-title h1 {
+    font-size: 75px;
+    line-height: 160px;
+}
