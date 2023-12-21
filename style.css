@@ -84,3 +84,10 @@ nav ul li a:hover {
     color: rgba(9, 64, 121, 1);
     margin-left: 20px;
 }
+
+.keyboard-img {
+    width: 820px;
+    position: absolute;
+    right: 5%;
+    bottom: 25%;
+}
